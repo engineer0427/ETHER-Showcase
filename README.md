@@ -57,7 +57,7 @@ print(f"📉 노드당 평균 상태 전이: {result.flips_per_node:.2f} 회")
 * **O(1) Convergence Detection:** 기저 상태 조기 종료 로직 구현.
 
 ## 📄 Academic Citation
-본 프로젝트의 이론적 상세는 아래 논문에서 확인하실 수 있습니다.
+본 프로젝트의 이론적 상세는 아래 논문에서 확인하실 수 있습니다. (arXiv 투고 및 심사 중)
 
 ```bibtex
 @article{han2026iesa,
