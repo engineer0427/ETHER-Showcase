@@ -75,4 +75,5 @@ print(f"📉 노드당 평균 상태 전이: {result.flips_per_node:.2f} 회")
 > **Note:** 본 레포지토리는 IESA 이론의 작동성(Proof of Concept)을 증명하는 쇼케이스입니다. 핵심 코어 엔진과 상세 최적화 로직은 보안을 위해 Private Repository에서 엄격히 관리됩니다. (관련 협업 문의는 이슈 또는 메일을 통해 주세요.)
 
 ---
+
 *If you find the IESA engine insightful, please **star** this repository to support our research!*
