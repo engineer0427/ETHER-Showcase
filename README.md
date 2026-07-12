@@ -61,18 +61,20 @@ print(f"📉 노드당 평균 상태 전이: {result.flips_per_node:.2f} 회")
 * **O(1) Convergence Detection:** 기저 상태 조기 종료 로직 구현.
 
 ## 📄 Academic Citation
-본 프로젝트의 이론적 상세와 arXiv 투고 및 심사 과정은 아래 논문에서 확인하실 수 있습니다.
+본 프로젝트의 이론적 상세와 투고 과정은 아래 Zenodo 공식 레코드를 통해 확인하실 수 있습니다[cite: 1].
 
 ```bibtex
-@article{han2026iesa,
-  title={Performance Analysis of IESA Engine: Constant-Time Global State Tracking and Probabilistic Entanglement},
-  author={Han, Jeong-Woo},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@misc{han2026iesa,
+  author = {Jeong-Woo Han},
+  title = {Performance Analysis of IESA Engine: Constant-Time Global State Tracking and Probabilistic Entanglement},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.21311204},
+  url = {[https://doi.org/10.5281/zenodo.21311204](https://doi.org/10.5281/zenodo.21311204)}
 }
 ```
 
-> **Note:** 본 레포지토리는 IESA 이론의 작동성(Proof of Concept)을 증명하는 쇼케이스입니다. 핵심 코어 엔진과 상세 최적화 로직은 보안을 위해 Private Repository에서 엄격히 관리됩니다. (관련 협업 문의는 이슈 또는 메일을 통해 주세요.)
+> **Note:** 본 레포지토리는 IESA 이론의 작동성(Proof of Concept)을 증명하는 쇼케이스입니다. 핵심 코어 엔진과 상세 최적화 로직은 보안을 위해 별도의 Private Repository에서 엄격히 관리됩니다. (관련 협업 문의는 이슈 또는 메일을 통해 주세요.)
 
 ---
 
