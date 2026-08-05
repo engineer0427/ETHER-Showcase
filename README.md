@@ -5,7 +5,7 @@
 ---
 
 ### 📜 Patent & Academic Status
-- **Patent Status:** 대한민국 특허청(KIPO) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0127949 호`)
+- **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0127949 호`)
 - **Academic Status:** 미국물리학회 **PRL(Physical Review Letters) 정식 투고 및 심사 중** (Accession Code: `LU21037`)
 - **Digital Object Identifier:** CERN **Zenodo 공식 글로벌 고유 DOI 박제 완료** (`10.5281/zenodo.21311204`)
 
