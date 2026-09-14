@@ -106,7 +106,7 @@ IESA 하이브리드 모델이 고전 모델의 준안정 좌절 상태(Metastab
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.21311204},
-  url       = {[https://doi.org](https://doi.org)}
+  url       = {https://doi.org/10.5281/zenodo.21311204}
 }
 ```
 
