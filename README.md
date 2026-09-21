@@ -105,8 +105,8 @@ IESA 하이브리드 모델이 고전 모델의 준안정 좌절 상태(Metastab
   title     = {Performance Analysis of IESA Engine: Constant-Time Global State Tracking and Probabilistic Entanglement},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.21311204},
-  url       = {https://doi.org/10.5281/zenodo.21311204}
+  doi       = {10.5281/zenodo.22871363},
+  url       = {https://doi.org/10.5281/zenodo.22871363}
 }
 ```
 
