@@ -88,11 +88,11 @@ IESA 하이브리드 모델이 고전 모델의 준안정 좌절 상태(Metastab
 
 ---
 
-💼 Intellectual Property (IP) Licensing & Business Model
+💼 Intellectual Property & Custody Architecture
 
-본 원천기술의 글로벌 상업적 권리 및 IP 라이선싱 비즈니스는 **메타 IP 라이선서 '란더(Landauer)'**에 의해 엄격히 보호 및 관리됩니다.
-* **Licensing Architecture:** 원천 알고리즘 유출을 원천 차단하기 위해 소스코드는 완전히 비공개로 유지되며, 글로벌 파트너사와의 **비독점 라이선싱(Non-Exclusive Licensing)**을 통해 각 타겟 플랫폼 환경에 최적화된 **암호화된 열역학 알고리즘 커널 IP (Encrypted Algorithmic Core / Thermodynamic Kernel IP)**를 공급합니다.
-* **Revenue Framework:** 플랫폼 출하 및 인프라 연동 규모에 비례하는 가치 공유형 러닝 로열티 및 미니멈 개런티(MG) 구조를 바탕으로 한 확장성 지향 비즈니스 모델 구축.
+본 원천 아키텍처의 글로벌 상업적 권리 및 IP 자산은 **메타 IP 라이선서 '란더(Landauer)'**에 의해 독점 관리됩니다.
+* **IP Custody & Protection:** 핵심 자산 및 방법론의 무단 유출을 원천 차단하기 위해, 모든 지식재산권은 **기술보증기금(KIBO) IP 신탁 시스템**을 통해 투명하고 안전하게 법적 보호 및 관리됩니다.
+* **Licensing Model:** 원천 소스코드 및 핵심 로직은 완전히 비공개로 유지되며, 글로벌 파트너사와의 엄격한 **비독점 라이선싱(Non-Exclusive Licensing)**을 통해 각 타겟 도메인 환경에 독립적으로 이식 및 연동되는 **보호된 방법론 아키텍처 및 시스템 블루프린트 IP (Protected Methodology Architecture / Systemic Blueprint IP)**를 안전하게 공급합니다.
 
 ---
 
