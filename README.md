@@ -88,11 +88,11 @@ IESA 하이브리드 모델이 고전 모델의 준안정 좌절 상태(Metastab
 
 ---
 
-## 💼 Intellectual Property (IP) Licensing & Business Model
-본 프로젝트의 상업적 권리와 글로벌 라이선싱 비즈니스는 **원천기술 IP 라이선서 '란더(Landauer)'**에 의해 독점 관리 및 보호됩니다.
+💼 Intellectual Property (IP) Licensing & Business Model
 
-- **Licensing Architecture:** 원천 기술 유출 방지를 위해 소스코드는 완전히 비공개로 유지되며, 엔터프라이즈 파트너사에게는 각 산업군 환경에 커스텀 빌드된 **암호화된 블랙박스 라이브러리(Compiled C++ SDK / Compiled Binary)** 형태로 IP가 공급됩니다.
-- **Revenue Framework:** 글로벌 업계 표준 규격에 기반한 가치 공유형 **러닝 로열티 (Running Royalty 3.5%)** 및 미니멈 개런티(MG) 구조 적용.
+본 원천기술의 글로벌 상업적 권리 및 IP 라이선싱 비즈니스는 **메타 IP 라이선서 '란더(Landauer)'**에 의해 엄격히 보호 및 관리됩니다.
+* **Licensing Architecture:** 원천 알고리즘 유출을 원천 차단하기 위해 소스코드는 완전히 비공개로 유지되며, 글로벌 파트너사와의 **비독점 라이선싱(Non-Exclusive Licensing)**을 통해 각 타겟 플랫폼 환경에 최적화된 **암호화된 열역학 알고리즘 커널 IP (Encrypted Algorithmic Core / Thermodynamic Kernel IP)**를 공급합니다.
+* **Revenue Framework:** 플랫폼 출하 및 인프라 연동 규모에 비례하는 가치 공유형 러닝 로열티 및 미니멈 개런티(MG) 구조를 바탕으로 한 확장성 지향 비즈니스 모델 구축.
 
 ---
 
